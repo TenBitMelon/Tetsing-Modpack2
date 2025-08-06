@@ -9,3 +9,8 @@ metafile = true
 file = "mods/entity-model-features.toml"
 hash = "e929a0154713dae6b4908219c3a0175d55317210680c0ae5d552ef030f6680d3"
 metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "32eec43b35e27abcfaa7291f2618ea543a9d736d77552bb6461a5e1a68b995b7"
+metafile = true
